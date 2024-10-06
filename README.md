@@ -1,7 +1,7 @@
 
 # 🏄‍♂️ Rheno
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Creator)`**
 
 Hi there! I’m a Frontend Developer with a passion for creating sleek, responsive web interfaces. I specialize in React.js, JavaScript, and HTML, with a knack for styling using Tailwind CSS and Bootstrap CSS. With a background in cybersecurity, I bring a secure-by-design approach to every project. Let’s build something amazing together!
 
